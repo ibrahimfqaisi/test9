@@ -1,0 +1,41 @@
+
+
+
+/*.card:hover {
+  transform: translateY(-5px);
+}
+
+.card figure {
+  margin: 0;
+  padding: 0;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.card h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 10px 0;
+  color: #333;
+}
+
+.card p {
+  font-size: 1rem;
+  color: #666;
+  margin: 0;
+}
+.container {
+  background-color: #f1eadb;
+  border: 1px solid #f9f7f7;
+  border-radius: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+} */
